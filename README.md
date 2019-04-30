@@ -31,12 +31,23 @@ EEG 측정은 본 project에서 mindwave mobile 기기를 사용하여 실험하
 ### 1. paper prototype
 ![Human-Computer-Interaction-Mindwave](paper prototype.pdf)
 ### 2. low-prototype (APP)
-1차 프로토 타입
-[Human-Computer-Interaction-Mindwave](https://xd.adobe.com/view/e8a4776e-a197-4c6b-4b89-7b2da3243a68-9e95/)
-이후, Usability Test를 거쳐 받은 피드백으로 2차 프로토 타입을 제작하였다.
-2차 프로토타입
+1차 프로토타입은 User research를 바탕으로 제작되었다.
+
+**User research** 
+<center><img src="/concept feedback.png"></center>
+
+**1차 프로토 타입**
 [Human-Computer-Interaction-Mindwave](https://xd.adobe.com/view/e8a4776e-a197-4c6b-4b89-7b2da3243a68-9e95/)
 <center><img src="/entire prototype.png"></center>
+
+아래는 Usability Test의 feedback으로 이를 바탕으로 2차 프로토 타입을 제작하였다. 
+
+**Usability test**
+<center><img src="/prototype weakness.png"></center>
+
+**2차 프로토타입**
+[Human-Computer-Interaction-Mindwave](https://xd.adobe.com/view/e8a4776e-a197-4c6b-4b89-7b2da3243a68-9e95/)
+<center><img src="/entire prototype2.png"></center>
 
 
 ### 3. setting
