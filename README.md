@@ -482,6 +482,8 @@ if __name__ == '__main__':
         print((textwrap.dedent("""\
             Exiting because the program could not connect
             to the Mindwave Mobile device.""").replace("\n", " ")))
-
-
+	    
 f.close()
+
+
+### 5. Reference
