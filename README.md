@@ -485,5 +485,3 @@ if __name__ == '__main__':
 	    
 f.close()
 
-
-### 5. Reference
