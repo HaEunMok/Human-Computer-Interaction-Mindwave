@@ -41,6 +41,7 @@ EEG 측정은 본 project에서 mindwave mobile 기기를 사용하여 실험하
 <center><img src="/concept feedback.png"></center>
 
 **1차 프로토 타입**
+1차 프로토 타입은 xd프로그램을 사용하여 앱의 전반적인 디자인과 사용흐름을 구현해 내었다. 
 [Human-Computer-Interaction-Mindwave](https://xd.adobe.com/view/e8a4776e-a197-4c6b-4b89-7b2da3243a68-9e95/)
 <center><img src="/entire prototype.png"></center>
 
@@ -50,6 +51,7 @@ EEG 측정은 본 project에서 mindwave mobile 기기를 사용하여 실험하
 <center><img src="/prototype weakness.png"></center>
 
 **2차 프로토타입**
+2차 프로토타입은 위의 Usability test를 고려하여 앱의 흐름과 구성, 세부사항을 수정하였다. 
 [Human-Computer-Interaction-Mindwave](https://xd.adobe.com/view/e8a4776e-a197-4c6b-4b89-7b2da3243a68-9e95/)
 <center><img src="/entire prototype2.png"></center>
 
@@ -485,3 +487,5 @@ if __name__ == '__main__':
 	    
 f.close()
 
+### 5. 앱 구현
+앱은 앱인벤터 프로그램을 사용하여 제작하였다. 
